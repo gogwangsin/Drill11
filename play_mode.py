@@ -37,7 +37,7 @@ def finish():
 
 def update():
     game_world.update()
-    # delay(0.1)
+    # delay(0.1) # 강제 딜레이
 
 
 def draw():
